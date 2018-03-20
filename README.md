@@ -1,6 +1,4 @@
-﻿# Lisovski et al. 2018 (original publication: xxx)
-
-This repository contains supplemental code to reproduce the analyses presented in "The differential role of migrants and residents in local avian influenza infection dynamics".
+﻿# Code for: Lisovski, S., van Dijk J.G.B., Klinkenberg, D., Nolet, B.A., Fouchier, R.A.M. & Klaassen, M. (2018) Code for: The roles of migratory and resident birds in local avian influenza infection dynamics. Journal of Applied Ecology 
 
 ## Content:
 1. c++ functions (.c, .dll)
